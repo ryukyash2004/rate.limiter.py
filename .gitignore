@@ -1,0 +1,22 @@
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment (Don't upload this!)
+venv/
+env/
+.env
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Benchmarks
+benchmark_results.png
+
+# IDE settings
+.vscode/
+.idea/
